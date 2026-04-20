@@ -1,6 +1,0 @@
-{
-  "appid": "YOUR_WECHAT_APPID",
-  "appsecret": "YOUR_WECHAT_APPSECRET",
-  "account_name": "你的公众号名称",
-  "cache_dir": ".cache"
-}
